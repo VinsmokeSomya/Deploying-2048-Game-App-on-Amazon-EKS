@@ -37,7 +37,7 @@
 
 ### Step 1: Create an EKS cluster
 
-![Alt text](image.png)
+![Alt text](SS/image-1.png)
 
 ![Alt text](image-1.png)
 
