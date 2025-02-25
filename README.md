@@ -178,4 +178,4 @@ curl a06aa56b81f5741268daca84dca6b4f8-694631959.us-east-1.elb.amazonaws.com:80
 # setup to be complete)
 ```
 
-![Alt text](image-4.png)
+![Alt text](SS/image-4.png)
