@@ -37,13 +37,13 @@
 
 ### Step 1: Create an EKS cluster
 
-![Alt text](SS/image-1.png)
+![Alt text](SS/image.png)
 
-![Alt text](image-1.png)
+![Alt text](SS/image-1.png)
 
 ### Step 2: Create an IAM role **eks-cluster-role** with 1 policy attached: AmazonEKSClusterPolicy
 
-![Alt text](image-2.png)
+![Alt text](SS/image-2.png)
 
 ```
 Create another IAM role 'eks-node-grp-role' with 3 policies attached: 
@@ -66,7 +66,7 @@ Click 'Create'. This process will take 10-12 minutes. Wait till your cluster sho
 
 ### Step 3: Add Node Groups to our cluster
 
-![Alt text](image-3.png)
+![Alt text](SS/image-3.png)
 
 ```
 Now, lets add the worker nodes where the pods can run
