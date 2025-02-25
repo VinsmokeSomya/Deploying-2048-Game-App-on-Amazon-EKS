@@ -7,7 +7,7 @@
 
 ***A Kubernetes project for deploying a 2048 game app on Amazon Elastic Kubernetes Service (EKS) involves setting up, deploying, and managing the popular 2048 game application on a Kubernetes cluster running on AWS EKS. This project aims to demonstrate how to containerize a web application, deploy it on EKS, manage the cluster, and expose the application to users.***
 
-## **Prerequisites**
+## ✅ Prerequisites
 
 **kubectl** – A command line tool for working with Kubernetes clusters. For more information, see Installing or updating kubectl.
 
