@@ -1,6 +1,11 @@
-# Kubernetes End to End Project on EKS(Amazon Kubernetes Service)
+# Deploying 2048 Game App on Amazon EKS
 
 ![EKS](https://imgur.com/oADneqS.png)
+
+
+## ✅ Project Description
+
+***A Kubernetes project for deploying a 2048 game app on Amazon Elastic Kubernetes Service (EKS) involves setting up, deploying, and managing the popular 2048 game application on a Kubernetes cluster running on AWS EKS. This project aims to demonstrate how to containerize a web application, deploy it on EKS, manage the cluster, and expose the application to users.***
 
 ## **Prerequisites**
 
@@ -9,12 +14,6 @@
 **eksctl** – A command line tool for working with EKS clusters that automates many individual tasks. For more information, see Installing or updating.
 
 **AWS CLI** – A command line tool for working with AWS services, including Amazon EKS. For more information, see Installing, updating, and uninstalling the AWS CLI in the AWS Command Line Interface User Guide. After installing the AWS CLI, we recommend that you also configure it. For more information, see Quick configuration with aws configure in the AWS Command Line Interface User Guide.
-
-## ✅ Project Title: Deploying 2048 Game App on Amazon EKS
-
-## ✅ Project Description
-
-***A Kubernetes End-to-End (E2E) project for deploying a 2048 game app on Amazon Elastic Kubernetes Service (EKS) involves setting up, deploying, and managing the popular 2048 game application on a Kubernetes cluster running on AWS EKS. This project aims to demonstrate how to containerize a web application, deploy it on EKS, manage the cluster, and expose the application to users.***
 
 ## ✅ Containerization
 
